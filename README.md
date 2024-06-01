@@ -1,7 +1,3 @@
-The uploaded file appears to be a Jupyter notebook titled `ImageCreation.ipynb`, which includes code and markdown cells for creating images using machine learning techniques. The contents suggest it involves importing various libraries, setting directories, and using TensorFlow for image processing.
-
-Here’s a `README.md` file that can be used for this GitHub repository:
-
 ---
 ## Dataset
 
