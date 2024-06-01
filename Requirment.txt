@@ -1,0 +1,5 @@
+numpy==1.21.0
+tqdm==4.61.2
+Pillow==8.2.0
+tensorflow==2.5.0
+keras==2.5.0
