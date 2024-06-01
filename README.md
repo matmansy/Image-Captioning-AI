@@ -3,7 +3,9 @@ The uploaded file appears to be a Jupyter notebook titled `ImageCreation.ipynb`,
 Here’s a `README.md` file that can be used for this GitHub repository:
 
 ---
+## Dataset
 
+The dataset used for this project can be downloaded [here](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset).
 # Image Creation Project
 
 This repository contains a Jupyter notebook for creating images using machine learning techniques. The notebook includes steps for setting up the environment, loading data, and using TensorFlow and Keras for processing images.
@@ -54,8 +56,7 @@ This repository contains a Jupyter notebook for creating images using machine le
 image-creation-project/
 ├── ImageCreation.ipynb   # Jupyter notebook with the main code
 ├── requirements.txt      # List of dependencies
-├── README.md             # Project documentation
-└── data/                 # Directory to store dataset (not included in the repository)
+└── README.md             # Project documentation
 ```
 
 ## Dependencies
